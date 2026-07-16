@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" role="img" aria-labelledby="title desc">
+  <title id="title">The Last Train poster</title>
+  <desc id="desc">A red train movie poster.</desc>
+  <rect width="400" height="600" fill="#7f1d1d"/>
+  <rect x="72" y="160" width="256" height="210" rx="24" fill="#111827"/>
+  <rect x="110" y="195" width="70" height="60" fill="#fee2e2"/>
+  <rect x="220" y="195" width="70" height="60" fill="#fee2e2"/>
+  <circle cx="132" cy="388" r="24" fill="#f8fafc"/>
+  <circle cx="268" cy="388" r="24" fill="#f8fafc"/>
+  <path d="M92 455 L308 455 L360 600 L40 600 Z" fill="#450a0a"/>
+  <text x="38" y="500" fill="#ffffff" font-family="Arial, sans-serif" font-size="40" font-weight="700">The Last</text>
+  <text x="38" y="545" fill="#ffffff" font-family="Arial, sans-serif" font-size="40" font-weight="700">Train</text>
+</svg>

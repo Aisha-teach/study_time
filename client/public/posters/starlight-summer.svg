@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" role="img" aria-labelledby="title desc">
+  <title id="title">Starlight Summer poster</title>
+  <desc id="desc">A warm yellow movie poster with stars.</desc>
+  <rect width="400" height="600" fill="#facc15"/>
+  <circle cx="300" cy="110" r="54" fill="#0284c7"/>
+  <path d="M60 410 C135 300 245 300 340 410 L340 600 L60 600 Z" fill="#0f172a"/>
+  <g fill="#ffffff">
+    <circle cx="78" cy="88" r="5"/>
+    <circle cx="150" cy="148" r="4"/>
+    <circle cx="238" cy="70" r="6"/>
+    <circle cx="330" cy="205" r="4"/>
+  </g>
+  <text x="36" y="520" fill="#ffffff" font-family="Arial, sans-serif" font-size="42" font-weight="700">Starlight</text>
+  <text x="36" y="565" fill="#ffffff" font-family="Arial, sans-serif" font-size="42" font-weight="700">Summer</text>
+</svg>

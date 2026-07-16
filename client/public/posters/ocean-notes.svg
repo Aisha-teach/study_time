@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" role="img" aria-labelledby="title desc">
+  <title id="title">Ocean Notes poster</title>
+  <desc id="desc">A blue ocean movie poster with music notes.</desc>
+  <rect width="400" height="600" fill="#0f766e"/>
+  <circle cx="96" cy="100" r="52" fill="#fef08a"/>
+  <path d="M0 350 C90 310 150 390 240 350 C300 325 350 330 400 360 L400 600 L0 600 Z" fill="#075985"/>
+  <path d="M0 430 C105 390 175 470 280 430 C335 410 370 420 400 440 L400 600 L0 600 Z" fill="#38bdf8"/>
+  <g fill="#ffffff" font-family="Arial, sans-serif" font-weight="700">
+    <text x="260" y="130" font-size="72">♪</text>
+    <text x="205" y="215" font-size="48">♫</text>
+  </g>
+  <text x="36" y="520" fill="#ffffff" font-family="Arial, sans-serif" font-size="42" font-weight="700">Ocean</text>
+  <text x="36" y="565" fill="#ffffff" font-family="Arial, sans-serif" font-size="42" font-weight="700">Notes</text>
+</svg>
