@@ -1,0 +1,17 @@
+# --- Frontend ---
+client/node_modules/
+client/dist/
+client/.vite/
+
+# --- Backend (Python) ---
+server/__pycache__/
+server/.venv/
+*.pyc
+
+# --- Telegram session — НИКОГДА не коммитить, это ключи доступа к аккаунту ---
+server/*.session
+server/*.session-journal
+
+# --- Прочее ---
+.env
+.DS_Store
