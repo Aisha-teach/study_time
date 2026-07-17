@@ -17,7 +17,7 @@ app = FastAPI()
 
 origins = [
     "http://localhost:5173",              # Vite dev server
-    "https://your-app.vercel.app",         # production frontend
+    "https://study-time-gamma-navy.vercel.app"
 ]
 
 app.add_middleware(
